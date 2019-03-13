@@ -1,0 +1,31 @@
+git init
+  426  ls
+  427  git checkout -b newone
+  428  git branch
+  429  cd redmi
+  430  ls
+  431  git add .
+  432  git commit -m "first commit"
+  433  git push
+  434  git remote add origin https://github.com/bhavanikakani/testgit.git
+  435  git push -U origin newone
+  436  git push -u origin newone
+  437  git push\
+  438  git push
+  439  git push --set-upstream origin newone
+  440  git branch
+  441  git branch -b newone
+  442  git checkout -b newone
+  443  gti branch
+  444  git branch
+  445  git push
+  446  git add .
+  447  git commit -m "first commit"
+  448  git push
+  449  git checkout -b secondone
+  450  git push
+  451  git add .
+  452  git commit -u "second commit"
+  453  git commit -u "commit"
+  454  git commit -m  "commit"
+  455  git push -u origin secondone
